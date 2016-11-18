@@ -152,10 +152,10 @@ header {
   min-height: auto;
   -webkit-background-size: cover;
   -moz-background-size: cover;
-  background-size: cover;
+  background-size: contain;
   -o-background-size: cover;
   background-position: center;
-  background-image: url('../img/header.jpg');
+  background-image: url('../img/portfolio/fullsize/image26.jpg');
   text-align: center;
   color: white;
 }
