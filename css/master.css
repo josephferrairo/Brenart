@@ -43,10 +43,10 @@ p {
   margin-bottom: 20px;
 }
 .bg-primary {
-  background-color: #F05F40;
+  background-color: gray;
 }
 .bg-dark {
-  background-color: #222222;
+  background-color: gray;
   color: white;
 }
 .text-faded {
@@ -155,7 +155,7 @@ header {
   background-size: contain;
   -o-background-size: cover;
   background-position: center;
-  background-image: url('../img/portfolio/fullsize/image26.jpg');
+  background-image: url('../img/portfolio/fullsize/fullsize22.jpg');
   background-repeat: no-repeat;
   text-align: center;
   color: white;
